@@ -8,6 +8,8 @@ public class MainClass {
 	public static void main(String[] args) {
 		StringBuilder str = new StringBuilder("Str1");
 		
+		System.out.println("====== Test Remote ======");
+		
 		Student std = new Student();
 		std.name = "Hong";
 		std.age = 20;
